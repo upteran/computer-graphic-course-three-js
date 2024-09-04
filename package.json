@@ -1,0 +1,16 @@
+{
+  "name": "computer-graphic-course-three-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm --parallel -r run build",
+    "dev": "pnpm --parallel -r run dev"
+  },
+  "keywords": [],
+  "author": "Andrey Tereshkin",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.168.0"
+  }
+}
